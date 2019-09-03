@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Dealim.umlTest.Marine"/>
+    <fullyQualifiedTypeName name="Dealim.umlTest.Unit"/>
+    <fullyQualifiedTypeName name="Dealim.umlTest.uml.strategy.IFly"/>
+    <fullyQualifiedTypeName name="Dealim.umlTest.uml.strategy.ICry"/>
+    <fullyQualifiedTypeName name="Dealim.umlTest.uml.strategy.Tiger"/>
+    <fullyQualifiedTypeName name="Dealim.umlTest.uml.strategy.Eagle"/>
+    <fullyQualifiedTypeName name="Dealim.umlTest.uml.strategy.Animal"/>
+    <fullyQualifiedTypeName name="Dealim.umlTest.uml.strategy.FlyWithWings"/>
+    <fullyQualifiedTypeName name="Dealim.umlTest.uml.strategy.TigerCry"/>
+    <fullyQualifiedTypeName name="Dealim.umlTest.uml.strategy.BirdCry"/>
+    <fullyQualifiedTypeName name="Dealim.umlTest.uml.strategy.CryNoWay"/>
+    <fullyQualifiedTypeName name="Dealim.umlTest.uml.strategy.FlyNoWay"/>
+    <fullyQualifiedTypeName name="Dealim.umlTest.uml.strategy.Turtle"/>
+</qualifiedTypeNameHistroy>

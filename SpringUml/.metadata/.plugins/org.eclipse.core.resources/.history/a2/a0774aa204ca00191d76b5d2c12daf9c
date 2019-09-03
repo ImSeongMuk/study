@@ -1,0 +1,21 @@
+package Dealim.umlTest;
+
+public class Marine {
+	private String Name="marine";
+	public int health;
+	protected int attackPower;
+	
+	private void Move() {
+		System.out.println("마린 운직인다");
+	}
+	
+	public void Attack() {
+		System.out.println("마린 어택");
+	}
+	
+	public void UnderAttack(char c1) {
+		System.out.println("마린 땅찍");
+	}
+	
+
+}

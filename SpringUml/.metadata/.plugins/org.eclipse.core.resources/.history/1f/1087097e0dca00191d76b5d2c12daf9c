@@ -1,0 +1,17 @@
+package Dealim.umlTest;
+
+public class UnitExecutor {
+	
+	public static void main(String[] args) {
+		Marine d = new Marine();
+		
+		d.Attack();
+		d.Name = "marine1";
+		d.Move();
+		
+		Medic m = new Medic();
+		m.Name="medic";
+		m.move();
+		
+	}
+}

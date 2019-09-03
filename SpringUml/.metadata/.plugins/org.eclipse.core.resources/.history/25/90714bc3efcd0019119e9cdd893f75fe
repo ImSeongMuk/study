@@ -1,0 +1,17 @@
+package Dealim.umlTest;
+
+public class Animal {
+	Animal(){
+		
+	}
+	
+	public void Display(){
+		
+	}
+	
+	public void Move(){
+		
+	}
+	
+	
+}

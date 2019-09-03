@@ -1,0 +1,15 @@
+package Dealim.umlTest;
+
+public class Medic extends Unit {
+	public void move() {
+		
+	}
+	
+	public void UnderAttack() {
+		
+	}
+	
+	public void healing(Charactor charactor) {
+		
+	}
+}

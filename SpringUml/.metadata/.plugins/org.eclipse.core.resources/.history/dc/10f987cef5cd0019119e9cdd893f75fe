@@ -1,0 +1,17 @@
+package Dealim.umlTest.uml.strategy;
+
+public class Zoo{
+
+	public static void main(String[] args) {
+		Animal tiger = new Tiger();
+		Eagle eagle = new Eagle();
+		
+		tiger.pserformCry();
+		tiger.performFly();
+		
+		eagle.pserformCry();
+		eagle.performFly();
+
+	}
+
+}

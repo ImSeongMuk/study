@@ -1,0 +1,15 @@
+package Dealim.umlTest;
+
+public class Unit {
+	public String Name;
+	public int health;
+	
+	public void Move() {
+		
+	}
+	
+	public void UnderAttack(Charactor charactor) {
+		
+	}
+	
+}
